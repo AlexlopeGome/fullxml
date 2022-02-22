@@ -24,7 +24,7 @@
      <span>
 	      Precio:
 	   <u>  <xsl:value-of select="price"/></u>
-	    euros
+	   <xsl:value-of select="moneda"/>
      </span>
       
 	</xsl:template>
