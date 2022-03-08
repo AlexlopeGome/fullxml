@@ -6,7 +6,7 @@ display: inline-block;
 display: list-item;
 list-style: disc inside;
 margin-left: 20px;
-
+font-weight: bold;
 
 }
 
@@ -16,7 +16,7 @@ color: blue;
 display: list-item;
 list-style: disc inside;
 margin-left: 20px;
- 
+font-weight: bold;
  
 
 }
