@@ -7,7 +7,7 @@
 <author>Giada De Laurentiis</author>
 <year>2005</year>
 <price>30.00</price>
-<moneda>euiros</moneda>
+<moneda>euros</moneda>
 </book>
 <book category="children">
 <title lang="en">Harry Potter</title>
@@ -32,6 +32,6 @@
 <author>Erik T. Ray</author>
 <year>2003</year>
 <price>39.95</price>
-<moneda>euiros</moneda>
+<moneda>euros</moneda>
 </book>
 </bookstore>
